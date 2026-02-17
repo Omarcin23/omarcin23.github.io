@@ -115,9 +115,9 @@ animation:explode 1s ease-out forwards;
 <div id="mensaje"></div>  
   
 <div class="fotos">  
-<img src="foto1.jpg">  
-<img src="foto2.jpg">  
-<img src="foto3.jpg">  
+<img src="foto1.jpg.jpeg">  
+<img src="foto2.jpg.jpeg">  
+<img src="foto3.jpg.jpeg">  
 </div>  
   
 <audio autoplay loop>  
